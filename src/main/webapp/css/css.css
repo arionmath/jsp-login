@@ -1,0 +1,15 @@
+body{
+	background-color: #335;
+	color: #fff;
+}
+#conteudo{
+	
+	float: center;
+	margin:auto;
+	width: 200px;
+	padding:5%;
+}
+#conteudo input{
+	display: block;
+	margin-top:5px;
+}
